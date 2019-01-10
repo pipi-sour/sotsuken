@@ -1,0 +1,12 @@
+mpiexec --hostfile /etc/hosts -np 4 python p1.py 100
+
+ssh mpiuser@172.16.57.70
+ssh mpiuser@172.16.57.64
+ssh mpiuser@172.16.57.69
+ssh mpiuser@172.16.57.87
+
+sudo mount -t nfs 172.16.57.59:/home/mpiuser/shared /home/mpiuser/shared
+
+sudo shutdown -h now
+
+mpiexec --hostfile /etc/hosts -np 4 python3 image2text.py ouyou
