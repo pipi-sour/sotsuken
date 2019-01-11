@@ -4,28 +4,30 @@
     <list default="true" id="2913a55a-7293-45cd-ab81-3eaf35769ef3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/equalize.py" beforeDir="false" afterPath="$PROJECT_DIR$/equalize.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/image2text.py" beforeDir="false" afterPath="$PROJECT_DIR$/image2text.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pdf2img/ouyou/ouyou1.png" beforeDir="false" afterPath="$PROJECT_DIR$/pdf2img/ouyou/ouyou1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pdf2img/ouyou/ouyou2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pdf2img/ouyou/ouyou3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pdf2img/ouyou/ouyou4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pdf2img/ouyou/ouyou5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pdf2img/ouyou/ouyou6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pdf2img/ouyou/ouyou7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pdf2img/ouyou/ouyou8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pdf2img/ouyou0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pdf2img/ouyou1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pdf2img/ouyou10.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pdf2img/ouyou2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pdf2img/ouyou3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pdf2img/ouyou4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pdf2img/ouyou5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pdf2img/ouyou6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pdf2img/ouyou7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pdf2img/ouyou8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pdf2img/ouyou9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/txt/ouyou.txt" beforeDir="false" afterPath="$PROJECT_DIR$/txt/ouyou.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/._test.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/._test_clear.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/._test_clear2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/._test_clear3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/._test_mincho.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/ouyou1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/ouyou2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/test.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/test_clear.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/test_clear2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/test_clear3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/test_en.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/test_mincho.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/other/12-12.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/other/12-12定例会資料.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/bansho.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/ouyou.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf2img/orgouyou/ouyou1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf2img/orgouyou/ouyou2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf2img/ouyou/ouyou1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/txt/ouyou.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/txt/ouyou1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/txt/test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/txt/test_mincho.txt" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,14 +49,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/image2text.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="291">
-              <caret line="78" column="25" selection-start-line="78" selection-start-column="25" selection-end-line="78" selection-end-column="25" />
+            <state relative-caret-position="216">
+              <caret line="27" column="14" lean-forward="true" selection-start-line="27" selection-start-column="14" selection-end-line="27" selection-end-column="14" />
               <folding>
                 <element signature="e#63#73#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -108,10 +119,10 @@
       <list>
         <option value="$PROJECT_DIR$/benchmark.py" />
         <option value="$PROJECT_DIR$/image2text_cent.py" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/equalize.py" />
         <option value="$PROJECT_DIR$/image2text-0108.py" />
         <option value="$PROJECT_DIR$/image2text.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -241,7 +252,7 @@
     <layout>
       <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="1" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.15965009" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.15965009" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.2316136" />
@@ -250,7 +261,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Version Control" order="6" weight="0.32930845" />
       <window_info anchor="bottom" id="TODO" order="7" weight="0.32930845" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3194292" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3194292" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32962137" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -309,13 +320,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="3" column="10" lean-forward="true" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/image2text-0108.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="24">
@@ -348,11 +352,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/image2text.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="78" column="25" selection-start-line="78" selection-start-column="25" selection-end-line="78" selection-end-column="25" />
+        <state relative-caret-position="216">
+          <caret line="27" column="14" lean-forward="true" selection-start-line="27" selection-start-column="14" selection-end-line="27" selection-end-column="14" />
           <folding>
             <element signature="e#63#73#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
         </state>
       </provider>
     </entry>
