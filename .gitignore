@@ -1,5 +1,5 @@
 venv
-img/*
-pdf/*
-pdf2img/*
-txt/*
+/img/*
+/pdf/*
+/pdf2img/*
+/txt/*

@@ -22,7 +22,7 @@ jobs = []
 # create 2d list for jobs
 for i in range(0, size):
     jobs.append([])
-# sizes of images
+# sizes of imageshttps://github.com/st14d07/sotsuken.git
 worker_size = [0] * size
 
 for i in range(0, page_size):
