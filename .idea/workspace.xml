@@ -4,30 +4,8 @@
     <list default="true" id="2913a55a-7293-45cd-ab81-3eaf35769ef3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/._test.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/._test_clear.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/._test_clear2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/._test_clear3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/._test_mincho.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/ouyou1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/ouyou2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/test.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/test_clear.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/test_clear2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/test_clear3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/test_en.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/test_mincho.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/other/12-12.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/other/12-12定例会資料.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pdf/bansho.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pdf/ouyou.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pdf2img/orgouyou/ouyou1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pdf2img/orgouyou/ouyou2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pdf2img/ouyou/ouyou1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/txt/ouyou.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/txt/ouyou1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/txt/test.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/txt/test_mincho.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image2text.py" beforeDir="false" afterPath="$PROJECT_DIR$/image2text.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image2text_a.py" beforeDir="false" afterPath="$PROJECT_DIR$/image2text_a.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +18,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/equalize.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
+            <state relative-caret-position="264">
               <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
@@ -49,23 +27,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/image2text.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="27" column="14" lean-forward="true" selection-start-line="27" selection-start-column="14" selection-end-line="27" selection-end-column="14" />
-              <folding>
-                <element signature="e#63#73#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="-99">
+              <caret line="194" column="29" selection-start-line="194" selection-start-column="29" selection-end-line="194" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+            <state relative-caret-position="48">
+              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -73,7 +48,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/image2text_cent.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="984">
+            <state relative-caret-position="507">
               <caret line="68" column="43" selection-start-line="68" selection-start-column="43" selection-end-line="68" selection-end-column="43" />
               <folding>
                 <element signature="e#63#73#0" expanded="true" />
@@ -85,7 +60,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/benchmark.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
+            <state relative-caret-position="96">
               <caret line="9" selection-start-line="9" selection-end-line="9" />
               <folding>
                 <element signature="e#17#38#0" expanded="true" />
@@ -97,8 +72,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/image2text_a.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2232">
-              <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+            <state relative-caret-position="984">
+              <caret line="50" column="40" selection-start-line="50" selection-start-column="40" selection-end-line="50" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -109,6 +84,7 @@
     <findStrings>
       <find>received</find>
       <find>file_data</find>
+      <find>file_data_s</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -117,20 +93,21 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/benchmark.py" />
         <option value="$PROJECT_DIR$/image2text_cent.py" />
         <option value="$PROJECT_DIR$/equalize.py" />
         <option value="$PROJECT_DIR$/image2text-0108.py" />
-        <option value="$PROJECT_DIR$/image2text.py" />
+        <option value="$PROJECT_DIR$/benchmark.py" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/image2text_a.py" />
+        <option value="$PROJECT_DIR$/image2text.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="132" />
-    <option name="y" value="27" />
-    <option name="width" value="927" />
-    <option name="height" value="789" />
+    <option name="x" value="67" />
+    <option name="y" value="25" />
+    <option name="width" value="1853" />
+    <option name="height" value="1055" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -294,6 +271,20 @@
         </entry>
       </map>
     </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/command.txt">
@@ -302,23 +293,6 @@
     <entry file="file://$PROJECT_DIR$/binarizarion.py" />
     <entry file="file://$PROJECT_DIR$/venv/pyvenv.cfg">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/image2text_a.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2232">
-          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/benchmark.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="e#17#38#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/image2text-0108.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -330,19 +304,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/image2text_cent.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="984">
-          <caret line="68" column="43" selection-start-line="68" selection-start-column="43" selection-end-line="68" selection-end-column="43" />
-          <folding>
-            <element signature="e#63#73#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/equalize.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
+        <state relative-caret-position="264">
           <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
@@ -350,20 +314,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/image2text.py">
+    <entry file="file://$PROJECT_DIR$/benchmark.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="27" column="14" lean-forward="true" selection-start-line="27" selection-start-column="14" selection-end-line="27" selection-end-column="14" />
+        <state relative-caret-position="96">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
           <folding>
-            <element signature="e#63#73#0" expanded="true" />
+            <element signature="e#17#38#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+        <state relative-caret-position="48">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image2text_cent.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="507">
+          <caret line="68" column="43" selection-start-line="68" selection-start-column="43" selection-end-line="68" selection-end-column="43" />
+          <folding>
+            <element signature="e#63#73#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image2text_a.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="984">
+          <caret line="50" column="40" selection-start-line="50" selection-start-column="40" selection-end-line="50" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image2text.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-99">
+          <caret line="194" column="29" selection-start-line="194" selection-start-column="29" selection-end-line="194" selection-end-column="29" />
         </state>
       </provider>
     </entry>
